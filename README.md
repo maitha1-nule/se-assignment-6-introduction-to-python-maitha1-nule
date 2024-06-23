@@ -15,6 +15,7 @@ Answer the following questions based on your understanding of Python programming
 
 3. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
+   print("Hello world")
 
 4. Data Types and Variables:
    - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
